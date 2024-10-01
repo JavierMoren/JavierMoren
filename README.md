@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋Hola, mi nombre es Javier y soy un Desarrollador Web aprendiz">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif">
   <h1>👋Hola, mi nombre es Javier y soy un Desarrollador Web aprendiz</h1>
 </div>
 
