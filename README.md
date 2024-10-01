@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2>Connect with me</h2>
+<h2>About me</h2>
 
 <p>Apasionado desarrollador web que busca crear aplicaciones web robustas y escalables. Apasionado del aprendizaje en tecnologías front-end y back-end.</p>
 
