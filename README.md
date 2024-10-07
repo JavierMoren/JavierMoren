@@ -44,8 +44,9 @@
 
 <h2 style="display: flex; align-items: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30" alt="Icono de estadísticas de GitHub" style="margin-left: 10px;">
-  <span>Github Stats</span>
+  <span>GitHub Stats</span>
 </h2>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMoren&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&cache_seconds=1800" alt="Tarjeta de GitHub con lenguajes más usados" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMoren&theme=react&hide_title=false&layout=compact&langs_count=6&card_width=400" alt="Lenguajes más usados en GitHub" />
 </p>
+
