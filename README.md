@@ -47,5 +47,5 @@
   <span>Github Stats</span>
 </h2>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMoren&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="Tarjeta de GitHub con lenguajes más usados" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMoren&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&cache_seconds=1800" alt="Tarjeta de GitHub con lenguajes más usados" />
 </p>
