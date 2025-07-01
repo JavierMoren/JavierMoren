@@ -10,9 +10,6 @@
   <a href="https://github.com/JavierMoren" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px" alt="GitHub logo">
   </a>
-  <a href="https://www.linkedin.com/in/javier-moreno-salas-a4a279265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px" alt="LinkedIn logo">
-  </a>
 </p>
 
 <h2>About me</h2>
