@@ -1,42 +1,48 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Imagen de bienvenida">
-  <h1>👋Hola, mi nombre es Javier y soy un aprendiz de Desarrollador Web</h1>
+  <h1>👋 Hey, soy Javier</h1>
 </div>
 
-<h2 style="display: flex; align-items: center;">
-  <span>Connect with me</span>
-</h2>
-<p align="left">
-  <a href="https://github.com/JavierMoren" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px" alt="GitHub logo">
-  </a>
+## 🔐 About
+
+Especializándome en ciberseguridad, particularmente en seguridad ofensiva. Aquí subo proyectos y cosillas que voy desarrollando.
+
+Con formación en desarrollo web full-stack. Enfocado en análisis de vulnerabilidades y pentesting.
+
+## 🛠️ Stack
+
+### Offensive Security 🔨 _learning..._
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 </p>
 
-<h2>About me</h2>
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 
-<p>Apasionado desarrollador web que busca crear aplicaciones web robustas y escalables. Apasionado del aprendizaje en tecnologías front-end y back-end.</p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 
-<h2>Rapid Fire</h2>
-<ul>
-  <li>🌱 Actualmente Estudiando Desarrollo Web</li>
-</ul>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
-<h2 style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="20" alt="Icono de habilidades" style="margin-left: 10px;">
-  <span>Skills</span>
-</h2>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="Logo de JavaScript" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="Logo de HTML5" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="Logo de CSS3" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Logo de Angular" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Logo de Python" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="32" alt="Logo de Java" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Logo de Spring" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="Logo de MySQL" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Logo de Docker" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="Logo de GitHub Actions" style="margin-right: 4px">
-</div>
+## 📫 Contact
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/JavierMoren)
